@@ -50,26 +50,26 @@ and solving real-world problems through code.
 ### 🪞 IntelliMirror — Smart Voice-Controlled Interactive Mirror
 > An IoT smart mirror converting traditional two-way glass into a hands-free interactive display with voice assistant control, media streaming, and real-time dashboard widgets.
 
-**Tech:** Raspberry Pi 4, Python, Node.js, REST APIs, Voice Assistant.
+**Tech:** Raspberry Pi 4 • Python • Node.js • Linux • REST APIs • Voice Assistant • HTML5/CSS3.
 
 ### 📄 Resume Builder & ATS Compatibility Auditor
- An AI-powered web application for building 100% ATS-compliant resumes, evaluating ATS score readiness, and providing regional job match suggestions.
+> An AI-powered web application for building 100% ATS-compliant resumes, evaluating ATS score readiness, and providing regional job match suggestions.
 
-> **Tech:** React 18 • Vite 6 • Google Gemini 1.5 Flash AI API • JavaScript (ES6+) • Vanilla CSS (Glassmorphism) • pdfjs-dist • mammoth.js • jsPDF • html2canvas.
+**Tech:** JavaScript • React 18 • Vite 6 • Gemini 1.5 Flash AI • pdfjs-dist • jsPDF
 
 [🌐 Live Demo](https://dhinesh-guru.github.io/Resume-Builder/) • [💻 Source Code](https://github.com/Dhinesh-Guru/Resume-Builder)
 
 ### 🔐 CyberJourney — Gamified Cybersecurity Platform
 > An interactive, gamified cybersecurity learning platform featuring virtual desktop OS environments, SOC incident response center tools, and cryptographic escape vaults.
 
-**Tech:** JavaScript (ES6+) • Supabase Postgres Realtime WebSockets • HTML5/CSS3 (Cyberpunk Design) • Web Audio API • Client-Side Security Defenses (XSS & SQLi Prevention).
+**Tech:** JavaScript (ES6+) • Supabase Postgres Realtime WebSockets • HTML5/CSS3 • Web Audio API.
 
 [🌐 Live Demo](https://dhinesh-guru.github.io/Cyber-Journey/Cyber%20Academy/index.html) • [💻 Source Code](https://github.com/Dhinesh-Guru/Cyber-Journey)
 
 ### 🖼️ PicReader — Smart Web Text Grabber
 > A Manifest V3 Chrome Extension that extracts text from YouTube videos or cropped screen regions using offline WebAssembly OCR and syncs notes into desktop Microsoft OneNote.
 
-**Tech:** Chrome Extension Manifest V3 • WebAssembly (WASM) • Tesseract.js • Node.js (Express) • Windows PowerShell COM Automation • JavaScript (ES6) • HTML5/CSS3.
+**Tech:** Chrome MV3 • WebAssembly (WASM) • Tesseract.js • Node.js • PowerShell • JavaScript • HTML5/CSS3.
 
 [💻 Source Code](https://github.com/Dhinesh-Guru/PicReader)
 
