@@ -50,12 +50,12 @@ and solving real-world problems through code.
 ### 🪞 IntelliMirror — Smart Voice-Controlled Interactive Mirror
 > An IoT smart mirror converting traditional two-way glass into a hands-free interactive display with voice assistant control, media streaming, and real-time dashboard widgets.
 
-**Tech:** Raspberry Pi 4 • Python / Node.js • Linux (Raspbian OS) • Spotify Web API • Google Calendar API • YouTube API • Weather REST APIs • Speech Recognition Engine • HTML5/CSS3.
+**Tech:** Raspberry Pi 4, Python, Node.js, REST APIs, Voice Assistant.
 
 ### 📄 Resume Builder & ATS Compatibility Auditor
-> An AI-powered web application for building 100% ATS-compliant resumes, evaluating ATS score readiness, and providing regional job match suggestions.
+ An AI-powered web application for building 100% ATS-compliant resumes, evaluating ATS score readiness, and providing regional job match suggestions.
 
-**Tech:** React 18 • Vite 6 • Google Gemini 1.5 Flash AI API • JavaScript (ES6+) • Vanilla CSS (Glassmorphism) • pdfjs-dist • mammoth.js • jsPDF • html2canvas.
+> **Tech:** React 18 • Vite 6 • Google Gemini 1.5 Flash AI API • JavaScript (ES6+) • Vanilla CSS (Glassmorphism) • pdfjs-dist • mammoth.js • jsPDF • html2canvas.
 
 [🌐 Live Demo](https://dhinesh-guru.github.io/Resume-Builder/) • [💻 Source Code](https://github.com/Dhinesh-Guru/Resume-Builder)
 
